@@ -17,6 +17,7 @@ AutoEncoders
 GANs - Generative Adversarial Networks
 Deploying TensorFlow into Production
 
+## Keras and Tensorflow 2
 Keras, a user-friendly API standard for machine learning, will be the central high-level API used to build and train models. The Keras API makes it easy to get started with TensorFlow 2. Importantly, Keras provides several model-building APIs (Sequential, Functional, and Subclassing), so we can choose the right level of abstraction for the project. TensorFlow’s implementation contains enhancements including eager execution, for immediate iteration and intuitive debugging, and tf.data, for building scalable input pipelines.
 
 TensorFlow 2 makes it easy to take new ideas from concept to code, and from model to publication. TensorFlow 2.0 incorporates a number of features that enables the definition and training of state of the art models without sacrificing speed or performance
